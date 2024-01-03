@@ -1,0 +1,14 @@
+#mytext{
+    font-family: snap itc;
+    text-align: center;
+    color: purple;
+}
+#mytable{
+    border: hidden;
+    margin-left: 20%;
+}
+#but{
+    font-family: snap itc;
+    background-color: gray;
+    margin-left: 60px;
+}

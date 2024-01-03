@@ -1,0 +1,80 @@
+#text{
+    font-family: snap itc;
+    color: purple;
+    text-align: center;
+}
+#te1{
+    font-family: snap itc;
+    color: white;
+    text-align: center;
+}
+#first{
+    background-color: palevioletred;
+    border-radius: 10px;
+    height: 500px;
+    width: 500px;
+    margin-left: 5%;
+}
+#mydiv1{
+    margin-left: 15%;
+    margin-top: 10%;
+}
+#myb1{
+    font-family: snap itc;
+    background-color: gray;
+    margin-left: 40px;
+}
+#myb2{
+    font-family: snap itc;
+    background-color: gray;
+    margin-left: 40px;
+}
+#p1{
+    margin-left: 30%;
+    font-family: sans-serif;
+    font-size: 10px;
+}
+#second{
+    background-color: palevioletred;
+    border-radius: 10px;
+    height: 500px;
+    width: 500px;
+    margin-left: 40%;
+    margin-top: -34%;
+}
+#te2{
+    font-family: snap itc;
+    color: white;
+    text-align: center;
+}
+#mydiv2{
+    margin-left: 15%;
+    margin-top: 10%;
+}
+#myb3{
+    font-family: snap itc;
+    background-color: gray;
+    margin-left: 60px;
+}
+#third{
+    background-color: palevioletred;
+    border-radius: 10px;
+    height: 500px;
+    width: 500px;
+    margin-left: 75%;
+    margin-top: -34%;
+}
+#te3{
+    font-family: snap itc;
+    color: white;
+    text-align: center;
+}
+#mydiv3{
+    margin-left: 15%;
+    margin-top: 10%;
+}
+#myb4{
+    font-family: snap itc;
+    background-color: gray;
+    margin-left: 60px;
+}

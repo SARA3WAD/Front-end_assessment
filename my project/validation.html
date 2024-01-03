@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>validation page</title>
+    <link rel="stylesheet" href="validation.css">
+</head>
+<body>
+    <h1 id="text">Validation Page</h1>
+    <form id="first">
+        <h3 id="te1">signup page</h3>
+        <div id="mydiv1">
+            <label>username:</label>
+            <input type="text" name="username" placeholder="username" id="username"><br><br>
+            <label>password:</label>
+            <input type="password" name="password" placeholder="password" id="password"><br><br>
+            <label>age:</label>
+            <input type="number" name="age" placeholder="age" id="age"><br><br>
+            <label>Gender:</label><br>
+            <input type="radio" name="radio" >
+            <label>Male</label>
+            <input type="radio" name="radio">
+            <label>Female</label><br><br>
+            <label>phone number:</label>
+            <input type="text" name="num" id="phonenum"><br><br><br><br>
+            <button id="myb1" onclick="signup()">signup</button>
+            <button id="myb2">signin</button>
+            <p id="p1">already have an account</p>
+        </div>
+    </form>
+    <form id="second">
+        <h3 id="te2">signin page</h3>
+        <div id="mydiv2">
+            <label>username:</label>
+            <input type="text" name="username" id="user" placeholder="username"><br><br>
+            <label>password:</label>
+            <input type="password" name="password" id="pass" placeholder="password"><br><br><br><br>
+
+            <button id="myb3" onclick="signin()">signin</button>
+        </div>
+    </form>
+    <form id="third">
+        <h3 id="te3">update password page</h3>
+        <div id="mydiv3">
+            <label>username:</label>
+            <input type="text" name="user" placeholder="username" id="user_"><br><br>
+            <label>new password:</label>
+            <input type="password" name="pass" placeholder="password" id="new_pass"><br><br><br><br>
+            <button id="myb4" onclick="update()">update password</button>
+            
+        </div>
+    </form>
+    <script src="validation.js"></script>
+</body>
+</html>

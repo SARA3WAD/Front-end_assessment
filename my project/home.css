@@ -1,0 +1,64 @@
+#me{
+    font-family: snap itc;
+    color: purple;
+    text-align: center;
+}
+body{
+    background: url('Best-Makeup-Apps-for-Android-feature-Image.jpg');
+    width: 10000;
+}
+#mynav{
+    justify-content: center;
+}
+#pic{
+    justify-items: center;
+    justify-content: space-between;
+    border-radius: 10%;
+}
+
+#main{
+    overflow: hidden;
+    justify-content: center;
+}
+#first{
+    display: flex;
+    width: 500vw;
+    transition: all 1s ease-in-out
+    
+}
+.divv{
+    width: 100%;
+   display: flex;
+   justify-content: center;
+   position:relative;
+}
+.pic{
+border-radius: 10%;
+
+}
+button{
+    font-family: snap itc;
+    height: 20%;
+    width: 50px;
+    margin-left: -40px;
+    margin-top: 17%;
+    margin: 20px 30px;
+    background-color: gray;
+}
+#footer{
+    background-color: pink;
+    justify-content: space-between;
+    padding: 2%;
+    margin-top: 20%;
+}
+#textt{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+}
+#ss{
+    text-decoration: none;
+    opacity: 0.5;
+}
+#myph{
+    margin-left: 70%;
+    margin-top: -35px;
+}
